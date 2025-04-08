@@ -1,6 +1,6 @@
 # News Summarization & Text-to-Speech Application
 
-This project is a solution for the Akaike Technologies Data Science Internship assignment. The application extracts key details from multiple news articles for a specified company, performs sentiment and comparative analyses, and generates a Hindi text-to-speech (TTS) output. The frontend is built with Streamlit and communicates with a FastAPI backend via REST APIs.
+The application extracts key details from multiple news articles for a specified company, performs sentiment and comparative analyses, and generates a Hindi text-to-speech (TTS) output. The frontend is built with Streamlit and communicates with a FastAPI backend via REST APIs.
 
 ## Key Features
 - **News Extraction:** Scrapes at least 10 news articles using BeautifulSoup.
